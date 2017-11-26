@@ -10,6 +10,9 @@ namespace C_SharpTutorial
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("This is the first step in the C# Tutorial.  Where is 'Hello World'?");
+
         }
     }
 }
